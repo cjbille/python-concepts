@@ -14,7 +14,7 @@ A personal reference and playground for Python concepts I want to remember — f
 | **concurrency/** | Multithreading                                         |
 | **functional/** | Lambdas                                                |
 | **io/** | Input/output operations                                |
-| **advanced/** | Reflection, composition, annotations                   |
+| **advanced/** | Reflection, comprehension, annotations                 |
 | **snippets/** | Miscellaneous utilities and small experiments          |
 
 ---
