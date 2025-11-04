@@ -1,8 +1,3 @@
-# create python virtual environment
-
-#
-# code begins here #
-#
 import math, time, threading
 from decimal import Decimal, getcontext
 
