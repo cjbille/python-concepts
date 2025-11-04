@@ -1,0 +1,47 @@
+# Python Concepts Repository
+
+A personal reference and playground for Python concepts I want to remember — from syntax basics to advanced patterns.
+
+---
+
+## 📁 Structure
+
+| Folder | Description                                            |
+|--------|--------------------------------------------------------|
+| **basics/** | Core language features: variables, loops, control flow |
+| **oop/** | Object-oriented principles — classes, inheritance      |
+| **collections/** | Lists, Dictionaries, Sets, and collection utilities    |
+| **concurrency/** | Multithreading                                         |
+| **functional/** | Lambdas                                                |
+| **io/** | Input/output operations                                |
+| **advanced/** | Reflection, composition, annotations                   |
+| **snippets/** | Miscellaneous utilities and small experiments          |
+
+---
+
+## 🧩 How to use
+Each folder contains runnable examples and a `notes.md` file with short explanations, gotchas, and tips.
+
+You can run examples using:
+```bash
+python3 module_name.py
+```
+
+---
+
+## Create Python Virtual Environment
+`python3 -m venv .venv`
+
+- Activate python virtual environment:
+`source .venv/bin/activate`
+
+- Leave python virtual environment
+`deactivate`
+
+---
+
+## Create requirements.txt
+`pip freeze > requirements.txt`
+
+- Install pip requirements
+`pip install -r requirements.txt`
