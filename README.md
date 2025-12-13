@@ -6,16 +6,17 @@ A personal reference and playground for Python concepts I want to remember — f
 
 ## 📁 Structure
 
-| Folder | Description                                            |
-|--------|--------------------------------------------------------|
-| **basics/** | Core language features: variables, loops, control flow |
-| **oop/** | Object-oriented principles — classes, inheritance      |
+| Folder           | Description                                            |
+|------------------|--------------------------------------------------------|
+| **basics/**      | Core language features: variables, loops, control flow |
+| **oop/**         | Object-oriented principles — classes, inheritance      |
 | **collections/** | Lists, Dictionaries, Sets, and collection utilities    |
 | **concurrency/** | Multithreading                                         |
-| **functional/** | Lambdas                                                |
-| **io/** | Input/output operations                                |
-| **advanced/** | Reflection, comprehension, annotations                 |
-| **snippets/** | Miscellaneous utilities and small experiments          |
+| **functional/**  | Lambdas                                                |
+| **io/**          | Input/output operations                                |
+| **tests/**       | Unit testing                                           |
+| **advanced/**    | Reflection, comprehension, annotations                 |
+| **snippets/**    | Miscellaneous utilities and small experiments          |
 
 ---
 
@@ -33,15 +34,13 @@ python3 module_name.py
 `python3 -m venv .venv`
 
 - Activate python virtual environment:
-`source .venv/bin/activate`
+  - `source .venv/bin/activate`
 
-- Leave python virtual environment
-`deactivate`
+- Leave python virtual environment:
+  - `deactivate`
 
 ---
 
-## Create requirements.txt
-`pip freeze > requirements.txt`
-
-- Install pip requirements
-`pip install -r requirements.txt`
+## Create requirements.txt and Install
+- `pip freeze > requirements.txt`
+- `pip install -r requirements.txt`
