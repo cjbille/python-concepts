@@ -10,7 +10,7 @@ A personal reference and playground for Python concepts I want to remember — f
 |------------------|--------------------------------------------------------|
 | **basics/**      | Core language features: variables, loops, control flow |
 | **oop/**         | Object-oriented principles — classes, inheritance      |
-| **collections/** | Lists, Dictionaries, Sets, and collection utilities    |
+| **collections/** | Lists, Dictionaries, Sets, and Tuples                  |
 | **concurrency/** | Multithreading                                         |
 | **functional/**  | Lambdas                                                |
 | **io/**          | Input/output operations                                |
