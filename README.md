@@ -9,14 +9,13 @@ A personal reference and playground for Python concepts I want to remember — f
 | Folder           | Description                                            |
 |------------------|--------------------------------------------------------|
 | **basics/**      | Core language features: variables, loops, control flow |
-| **oop/**         | Object-oriented principles — classes, inheritance      |
 | **collections/** | Lists, Dictionaries, Sets, and Tuples                  |
 | **concurrency/** | Multithreading                                         |
 | **functional/**  | Lambdas                                                |
 | **io/**          | Input/output operations                                |
-| **tests/**       | Unit testing                                           |
-| **advanced/**    | Reflection, comprehension, annotations                 |
+| **oop/**         | Object-oriented principles — classes, inheritance      |
 | **snippets/**    | Miscellaneous utilities and small experiments          |
+| **tests/**       | Unit testing                                           |
 
 ---
 
