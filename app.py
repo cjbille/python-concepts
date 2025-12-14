@@ -40,8 +40,7 @@ print(bytes(4))
 print(bytes('😃', 'utf-8'))
 print(bytes('😃', 'utf-8').decode('utf-8'))
 
-mylist = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-print([2*item for item in mylist]) # list comprehension
+
 
 def perform_op(num1, num2, op):
     if op == 'sum':

@@ -6,5 +6,3 @@ print(one)
 
 print(type(first_name)) # variable type can be checked
 print(type(one))
-
-
