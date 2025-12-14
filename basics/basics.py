@@ -1,8 +1,23 @@
-first_name = "chris" # convention for variables to be in snake case
-print(first_name)
+# convention for variable names to be in snake case
+first_name = "chris"
 
-one = 1 # variable type is inferred
-print(one)
+# variable type can be checked
+print(type(first_name))
 
-print(type(first_name)) # variable type can be checked
-print(type(one))
+# for loop
+for i in range(5):
+    print(i)
+
+# while loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1
+
+# control flow
+isBlue = True
+if isBlue:
+    print("The color is blue")
+else:
+    print("The color is not blue")
+

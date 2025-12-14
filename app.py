@@ -1,10 +1,5 @@
 import math, time, threading
 from decimal import Decimal, getcontext
-a = True
-if a:
-    print("a is true")
-else:
-    print("a is false")
 
 def multiply_by_three(val):
     return val * 3
