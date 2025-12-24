@@ -9,9 +9,10 @@ A personal reference and playground for Python concepts I want to remember — f
 | Folder           | Description                                            |
 |------------------|--------------------------------------------------------|
 | **basics/**      | Core language features: variables, loops, control flow |
+| **cli/**         | Command line interface scripts                         |
 | **collections/** | Lists, Dictionaries, Sets, and Tuples                  |
 | **concurrency/** | Multithreading                                         |
-| **functional/**  | Lambdas                                                |
+| **functional/**  | Lambdas, functions, exceptions, kwargs                 |
 | **io/**          | Input/output operations                                |
 | **oop/**         | Object-oriented principles — classes, inheritance      |
 | **snippets/**    | Miscellaneous utilities and small experiments          |
@@ -43,3 +44,8 @@ python3 module_name.py
 ## Create requirements.txt and Install
 - `pip freeze > requirements.txt`
 - `pip install -r requirements.txt`
+
+## Modules
+- A module is essentially a file in python
+- A package is essentially a folder in python
+- <i>A package is a collection of modules</i>
